@@ -1,4 +1,4 @@
-import calculator
+import calculadora.calculator as calculator
 
 def main():
     while True:
